@@ -5,3 +5,4 @@
 #include "AddTwo.h"
 #include "LongestPalindrome.h"
 #include "ZigZag.h"
+#include "ReverseInt.h"

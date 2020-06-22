@@ -36,6 +36,9 @@
     <ClCompile Include="ZigZag.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="ReverseInt.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="p0622.h">
@@ -60,6 +63,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="ZigZag.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ReverseInt.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

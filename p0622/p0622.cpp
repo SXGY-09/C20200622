@@ -6,7 +6,7 @@
 using namespace std;
 int main()
 {
-    ZigZag obj;
+    ReverseInt obj;
     obj.test();
 }
 
