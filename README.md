@@ -7,3 +7,4 @@
 + LongestPalindrome 找出给出的字符串S中最长的回文子串。
 + ZigZag 将字符串转化为指定行数的Z字形字符串。
 + ReverseInt 将给出的整数x翻转。
++ Str2Int 将字符串转化为整数

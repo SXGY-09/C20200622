@@ -6,3 +6,4 @@
 #include "LongestPalindrome.h"
 #include "ZigZag.h"
 #include "ReverseInt.h"
+#include "Str2Int.h"

@@ -145,6 +145,7 @@
     <ClCompile Include="MedianNumber.cpp" />
     <ClCompile Include="p0622.cpp" />
     <ClCompile Include="ReverseInt.cpp" />
+    <ClCompile Include="Str2Int.cpp" />
     <ClCompile Include="TwoSum.cpp" />
     <ClCompile Include="ZigZag.cpp" />
   </ItemGroup>
@@ -156,6 +157,7 @@
     <ClInclude Include="MedianNumber.h" />
     <ClInclude Include="p0622.h" />
     <ClInclude Include="ReverseInt.h" />
+    <ClInclude Include="Str2Int.h" />
     <ClInclude Include="TwoSum.h" />
     <ClInclude Include="ZigZag.h" />
   </ItemGroup>

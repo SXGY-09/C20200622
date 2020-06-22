@@ -6,7 +6,7 @@
 using namespace std;
 int main()
 {
-    ReverseInt obj;
+    Str2Int obj;
     obj.test();
 }
 
