@@ -6,7 +6,7 @@
 using namespace std;
 int main()
 {
-    LongestPalindrome obj;
+    ZigZag obj;
     obj.test();
 }
 

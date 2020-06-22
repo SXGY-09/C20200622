@@ -4,3 +4,4 @@
 #include "LongestSubstr.h"
 #include "AddTwo.h"
 #include "LongestPalindrome.h"
+#include "ZigZag.h"

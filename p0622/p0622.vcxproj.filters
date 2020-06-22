@@ -33,6 +33,9 @@
     <ClCompile Include="LongestPalindrome.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="ZigZag.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="p0622.h">
@@ -54,6 +57,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="LongestPalindrome.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZigZag.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
