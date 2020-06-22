@@ -6,7 +6,7 @@
 using namespace std;
 int main()
 {
-    LongestSubstr obj;
+    AddTwo obj;
     obj.test();
 }
 
