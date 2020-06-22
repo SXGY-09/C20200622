@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="AddTwo.cpp" />
+    <ClCompile Include="LongestPalindrome.cpp" />
     <ClCompile Include="LongestSubstr.cpp" />
     <ClCompile Include="MedianNumber.cpp" />
     <ClCompile Include="p0622.cpp" />
@@ -148,6 +149,7 @@
   <ItemGroup>
     <ClInclude Include="AddTwo.h" />
     <ClInclude Include="ListNode.h" />
+    <ClInclude Include="LongestPalindrome.h" />
     <ClInclude Include="LongestSubstr.h" />
     <ClInclude Include="MedianNumber.h" />
     <ClInclude Include="p0622.h" />
