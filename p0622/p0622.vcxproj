@@ -139,11 +139,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="LongestSubstr.cpp" />
     <ClCompile Include="MedianNumber.cpp" />
     <ClCompile Include="p0622.cpp" />
     <ClCompile Include="TwoSum.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="LongestSubstr.h" />
     <ClInclude Include="MedianNumber.h" />
     <ClInclude Include="p0622.h" />
     <ClInclude Include="TwoSum.h" />

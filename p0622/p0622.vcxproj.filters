@@ -24,6 +24,9 @@
     <ClCompile Include="MedianNumber.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="LongestSubstr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="p0622.h">
@@ -33,6 +36,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="MedianNumber.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestSubstr.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

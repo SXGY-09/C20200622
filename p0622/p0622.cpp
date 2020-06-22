@@ -6,7 +6,7 @@
 using namespace std;
 int main()
 {
-    MedianNumber obj;
+    LongestSubstr obj;
     obj.test();
 }
 
