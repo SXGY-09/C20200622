@@ -144,6 +144,7 @@
     <ClCompile Include="LongestSubstr.cpp" />
     <ClCompile Include="MedianNumber.cpp" />
     <ClCompile Include="p0622.cpp" />
+    <ClCompile Include="PalindromeInt.cpp" />
     <ClCompile Include="ReverseInt.cpp" />
     <ClCompile Include="Str2Int.cpp" />
     <ClCompile Include="TwoSum.cpp" />
@@ -156,6 +157,7 @@
     <ClInclude Include="LongestSubstr.h" />
     <ClInclude Include="MedianNumber.h" />
     <ClInclude Include="p0622.h" />
+    <ClInclude Include="PalindromeInt.h" />
     <ClInclude Include="ReverseInt.h" />
     <ClInclude Include="Str2Int.h" />
     <ClInclude Include="TwoSum.h" />

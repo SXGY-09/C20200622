@@ -42,6 +42,9 @@
     <ClCompile Include="Str2Int.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="PalindromeInt.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="p0622.h">
@@ -72,6 +75,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="Str2Int.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PalindromeInt.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

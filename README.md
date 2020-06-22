@@ -8,3 +8,4 @@
 + ZigZag 将字符串转化为指定行数的Z字形字符串。
 + ReverseInt 将给出的整数x翻转。
 + Str2Int 将字符串转化为整数
++ PalindromeInt 在不使用额外的内存空间的条件下判断一个整数是否是回文
