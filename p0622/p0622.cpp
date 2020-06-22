@@ -6,7 +6,7 @@
 using namespace std;
 int main()
 {
-    TwoSum obj;
+    MedianNumber obj;
     obj.test();
 }
 
