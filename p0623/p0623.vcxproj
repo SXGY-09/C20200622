@@ -144,6 +144,7 @@
     <ClCompile Include="Int2Roman.cpp" />
     <ClCompile Include="LetterCombination.cpp" />
     <ClCompile Include="MaxArea.cpp" />
+    <ClCompile Include="NthFromEnd.cpp" />
     <ClCompile Include="p0623.cpp" />
     <ClCompile Include="Roman2Int.cpp" />
     <ClCompile Include="ThreeSum.cpp" />
@@ -154,7 +155,9 @@
     <ClInclude Include="FourSum.h" />
     <ClInclude Include="Int2Roman.h" />
     <ClInclude Include="LetterCombination.h" />
+    <ClInclude Include="ListNode.h" />
     <ClInclude Include="MaxArea.h" />
+    <ClInclude Include="NthFromEnd.h" />
     <ClInclude Include="p0623.h" />
     <ClInclude Include="Roman2Int.h" />
     <ClInclude Include="ThreeSum.h" />

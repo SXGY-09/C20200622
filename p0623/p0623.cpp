@@ -5,6 +5,6 @@
 #include "p0623.h"
 int main()
 {
-    LetterCombination obj;
+    NthFromEnd obj;
     obj.test();
 }
