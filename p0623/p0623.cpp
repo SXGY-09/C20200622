@@ -5,6 +5,6 @@
 #include "p0623.h"
 int main()
 {
-    MaxArea obj;
+    Roman2Int obj;
     obj.test();
 }

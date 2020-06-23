@@ -139,12 +139,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Int2Roman.cpp" />
     <ClCompile Include="MaxArea.cpp" />
     <ClCompile Include="p0623.cpp" />
+    <ClCompile Include="Roman2Int.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Int2Roman.h" />
     <ClInclude Include="MaxArea.h" />
     <ClInclude Include="p0623.h" />
+    <ClInclude Include="Roman2Int.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

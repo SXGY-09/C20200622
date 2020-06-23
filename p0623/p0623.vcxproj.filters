@@ -21,12 +21,24 @@
     <ClCompile Include="MaxArea.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Int2Roman.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Roman2Int.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="p0623.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="MaxArea.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Int2Roman.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Roman2Int.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
