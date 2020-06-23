@@ -5,6 +5,6 @@
 #include "p0623.h"
 int main()
 {
-    NthFromEnd obj;
+    BracketCheck obj;
     obj.test();
 }

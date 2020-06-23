@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BracketCheck.cpp" />
     <ClCompile Include="CommonPrefix.cpp" />
     <ClCompile Include="FourSum.cpp" />
     <ClCompile Include="Int2Roman.cpp" />
@@ -151,6 +152,7 @@
     <ClCompile Include="ThreeSumClosest.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BracketCheck.h" />
     <ClInclude Include="CommonPrefix.h" />
     <ClInclude Include="FourSum.h" />
     <ClInclude Include="Int2Roman.h" />

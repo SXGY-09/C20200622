@@ -45,6 +45,9 @@
     <ClCompile Include="NthFromEnd.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="BracketCheck.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="p0623.h">
@@ -78,6 +81,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="ListNode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BracketCheck.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
