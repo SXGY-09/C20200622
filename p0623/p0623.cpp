@@ -5,6 +5,6 @@
 #include "p0623.h"
 int main()
 {
-    Roman2Int obj;
+    ThreeSum obj;
     obj.test();
 }
