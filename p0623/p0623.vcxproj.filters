@@ -36,6 +36,9 @@
     <ClCompile Include="ThreeSumClosest.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="FourSum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="p0623.h">
@@ -57,6 +60,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="ThreeSumClosest.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FourSum.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

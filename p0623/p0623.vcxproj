@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CommonPrefix.cpp" />
+    <ClCompile Include="FourSum.cpp" />
     <ClCompile Include="Int2Roman.cpp" />
     <ClCompile Include="MaxArea.cpp" />
     <ClCompile Include="p0623.cpp" />
@@ -149,6 +150,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CommonPrefix.h" />
+    <ClInclude Include="FourSum.h" />
     <ClInclude Include="Int2Roman.h" />
     <ClInclude Include="MaxArea.h" />
     <ClInclude Include="p0623.h" />

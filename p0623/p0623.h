@@ -5,3 +5,6 @@
 #include "CommonPrefix.h"
 #include "ThreeSum.h"
 #include "ThreeSumClosest.h"
+#include "FourSum.h"
+
+int main();

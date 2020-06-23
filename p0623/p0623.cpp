@@ -5,6 +5,6 @@
 #include "p0623.h"
 int main()
 {
-    ThreeSumClosest obj;
+    FourSum obj;
     obj.test();
 }
