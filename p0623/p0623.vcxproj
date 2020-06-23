@@ -145,6 +145,7 @@
     <ClCompile Include="p0623.cpp" />
     <ClCompile Include="Roman2Int.cpp" />
     <ClCompile Include="ThreeSum.cpp" />
+    <ClCompile Include="ThreeSumClosest.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CommonPrefix.h" />
@@ -153,6 +154,7 @@
     <ClInclude Include="p0623.h" />
     <ClInclude Include="Roman2Int.h" />
     <ClInclude Include="ThreeSum.h" />
+    <ClInclude Include="ThreeSumClosest.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
