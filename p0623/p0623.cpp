@@ -5,5 +5,6 @@
 #include "p0623.h"
 int main()
 {
-    std::cout << "Hello World!\n";
+    MaxArea obj;
+    obj.test();
 }
