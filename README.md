@@ -9,3 +9,7 @@
 + ReverseInt 将给出的整数x翻转。
 + Str2Int 将字符串转化为整数
 + PalindromeInt 在不使用额外的内存空间的条件下判断一个整数是否是回文
++ RegexMatch 实现支持'.'and'*'的通配符模式匹配。
+  '.' Matches any single character.
+  '*' Matches zero or more of the preceding element.
+  The matching should cover theentireinput string (not partial).

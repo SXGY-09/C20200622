@@ -6,7 +6,7 @@
 using namespace std;
 int main()
 {
-    PalindromeInt obj;
+    RegexMatch obj;
     obj.test();
 }
 

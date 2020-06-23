@@ -8,3 +8,4 @@
 #include "ReverseInt.h"
 #include "Str2Int.h"
 #include "PalindromeInt.h"
+#include "RegexMatch.h"
