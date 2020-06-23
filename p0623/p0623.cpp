@@ -5,6 +5,6 @@
 #include "p0623.h"
 int main()
 {
-    FourSum obj;
+    LetterCombination obj;
     obj.test();
 }

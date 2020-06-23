@@ -142,6 +142,7 @@
     <ClCompile Include="CommonPrefix.cpp" />
     <ClCompile Include="FourSum.cpp" />
     <ClCompile Include="Int2Roman.cpp" />
+    <ClCompile Include="LetterCombination.cpp" />
     <ClCompile Include="MaxArea.cpp" />
     <ClCompile Include="p0623.cpp" />
     <ClCompile Include="Roman2Int.cpp" />
@@ -152,6 +153,7 @@
     <ClInclude Include="CommonPrefix.h" />
     <ClInclude Include="FourSum.h" />
     <ClInclude Include="Int2Roman.h" />
+    <ClInclude Include="LetterCombination.h" />
     <ClInclude Include="MaxArea.h" />
     <ClInclude Include="p0623.h" />
     <ClInclude Include="Roman2Int.h" />
