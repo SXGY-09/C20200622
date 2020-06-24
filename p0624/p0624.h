@@ -7,3 +7,4 @@
 #include "StrStr.h"
 #include "DivideInt.h"
 #include "SubstringIndex.h"
+#include "NextPermutation.h"

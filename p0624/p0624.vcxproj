@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="DivideInt.cpp" />
     <ClCompile Include="MergeList.cpp" />
+    <ClCompile Include="NextPermutation.cpp" />
     <ClCompile Include="p0624.cpp" />
     <ClCompile Include="RemoveDuplicate.cpp" />
     <ClCompile Include="RemoveElement.cpp" />
@@ -153,6 +154,7 @@
     <ClInclude Include="DivideInt.h" />
     <ClInclude Include="ListNode.h" />
     <ClInclude Include="MergeList.h" />
+    <ClInclude Include="NextPermutation.h" />
     <ClInclude Include="p0624.h" />
     <ClInclude Include="RemoveDuplicate.h" />
     <ClInclude Include="RemoveElement.h" />

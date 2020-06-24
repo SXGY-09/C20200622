@@ -5,7 +5,7 @@
 #include "p0624.h"
 int main()
 {
-    SubstringIndex obj;
+    NextPermutation obj;
     obj.test();
 }
 
