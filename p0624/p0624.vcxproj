@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="DivideInt.cpp" />
     <ClCompile Include="MergeList.cpp" />
     <ClCompile Include="p0624.cpp" />
     <ClCompile Include="RemoveDuplicate.cpp" />
@@ -148,6 +149,7 @@
     <ClCompile Include="SwapNode.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="DivideInt.h" />
     <ClInclude Include="ListNode.h" />
     <ClInclude Include="MergeList.h" />
     <ClInclude Include="p0624.h" />

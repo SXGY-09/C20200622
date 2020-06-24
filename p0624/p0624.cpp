@@ -5,7 +5,7 @@
 #include "p0624.h"
 int main()
 {
-    StrStr obj;
+    DivideInt obj;
     obj.test();
 }
 

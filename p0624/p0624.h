@@ -5,3 +5,4 @@
 #include "RemoveDuplicate.h"
 #include "RemoveElement.h"
 #include "StrStr.h"
+#include "DivideInt.h"
