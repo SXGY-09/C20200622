@@ -5,7 +5,7 @@
 #include "p0624.h"
 int main()
 {
-    RotatedArray obj;
+    SearchRange obj;
     obj.test();
 }
 

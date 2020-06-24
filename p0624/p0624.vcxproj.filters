@@ -48,6 +48,9 @@
     <ClCompile Include="RotatedArray.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="SearchRange.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="p0624.h">
@@ -84,6 +87,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="RotatedArray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchRange.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

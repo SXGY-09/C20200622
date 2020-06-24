@@ -147,6 +147,7 @@
     <ClCompile Include="RemoveElement.cpp" />
     <ClCompile Include="ReverseNode.cpp" />
     <ClCompile Include="RotatedArray.cpp" />
+    <ClCompile Include="SearchRange.cpp" />
     <ClCompile Include="StrStr.cpp" />
     <ClCompile Include="SubstringIndex.cpp" />
     <ClCompile Include="SwapNode.cpp" />
@@ -161,6 +162,7 @@
     <ClInclude Include="RemoveElement.h" />
     <ClInclude Include="ReverseNode.h" />
     <ClInclude Include="RotatedArray.h" />
+    <ClInclude Include="SearchRange.h" />
     <ClInclude Include="StrStr.h" />
     <ClInclude Include="SubstringIndex.h" />
     <ClInclude Include="SwapNode.h" />

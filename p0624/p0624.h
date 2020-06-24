@@ -9,3 +9,4 @@
 #include "SubstringIndex.h"
 #include "NextPermutation.h"
 #include "RotatedArray.h"
+#include "SearchRange.h"
