@@ -45,6 +45,9 @@
     <ClCompile Include="NextPermutation.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="RotatedArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="p0624.h">
@@ -78,6 +81,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="NextPermutation.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RotatedArray.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

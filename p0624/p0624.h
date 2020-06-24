@@ -8,3 +8,4 @@
 #include "DivideInt.h"
 #include "SubstringIndex.h"
 #include "NextPermutation.h"
+#include "RotatedArray.h"
