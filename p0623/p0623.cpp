@@ -5,6 +5,6 @@
 #include "p0623.h"
 int main()
 {
-    BracketCheck obj;
+    ParenthesisGenerator obj;
     obj.test();
 }
