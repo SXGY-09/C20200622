@@ -5,7 +5,7 @@
 #include "p0624.h"
 int main()
 {
-    MergeList obj;
+    SwapNode obj;
     obj.test();
 }
 

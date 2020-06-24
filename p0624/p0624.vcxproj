@@ -141,11 +141,13 @@
   <ItemGroup>
     <ClCompile Include="MergeList.cpp" />
     <ClCompile Include="p0624.cpp" />
+    <ClCompile Include="SwapNode.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h" />
     <ClInclude Include="MergeList.h" />
     <ClInclude Include="p0624.h" />
+    <ClInclude Include="SwapNode.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
