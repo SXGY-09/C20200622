@@ -146,6 +146,7 @@
     <ClCompile Include="RemoveElement.cpp" />
     <ClCompile Include="ReverseNode.cpp" />
     <ClCompile Include="StrStr.cpp" />
+    <ClCompile Include="SubstringIndex.cpp" />
     <ClCompile Include="SwapNode.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -157,6 +158,7 @@
     <ClInclude Include="RemoveElement.h" />
     <ClInclude Include="ReverseNode.h" />
     <ClInclude Include="StrStr.h" />
+    <ClInclude Include="SubstringIndex.h" />
     <ClInclude Include="SwapNode.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

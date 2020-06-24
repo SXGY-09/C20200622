@@ -5,7 +5,7 @@
 #include "p0624.h"
 int main()
 {
-    DivideInt obj;
+    SubstringIndex obj;
     obj.test();
 }
 

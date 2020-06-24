@@ -6,3 +6,4 @@
 #include "RemoveElement.h"
 #include "StrStr.h"
 #include "DivideInt.h"
+#include "SubstringIndex.h"
