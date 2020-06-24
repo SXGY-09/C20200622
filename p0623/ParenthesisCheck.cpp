@@ -1,4 +1,4 @@
-#include "BracketCheck.h"
+#include "ParenthesisCheck.h"
 #include <stack>
 #include <iostream>
 bool ParenthesisCheck::solve(string s)

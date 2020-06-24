@@ -10,3 +10,4 @@
 #include "NthFromEnd.h"
 #include "ParenthesisCheck.h"
 #include "ParenthesisGenerator.h"
+#include "ParenthesisSubstring.h"

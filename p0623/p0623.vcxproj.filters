@@ -51,6 +51,9 @@
     <ClCompile Include="ParenthesisCheck.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="ParenthesisSubstring.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="p0623.h">
@@ -90,6 +93,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="ParenthesisCheck.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ParenthesisSubstring.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

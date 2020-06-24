@@ -148,6 +148,7 @@
     <ClCompile Include="NthFromEnd.cpp" />
     <ClCompile Include="p0623.cpp" />
     <ClCompile Include="ParenthesisGenerator.cpp" />
+    <ClCompile Include="ParenthesisSubstring.cpp" />
     <ClCompile Include="Roman2Int.cpp" />
     <ClCompile Include="ThreeSum.cpp" />
     <ClCompile Include="ThreeSumClosest.cpp" />
@@ -163,6 +164,7 @@
     <ClInclude Include="NthFromEnd.h" />
     <ClInclude Include="p0623.h" />
     <ClInclude Include="ParenthesisGenerator.h" />
+    <ClInclude Include="ParenthesisSubstring.h" />
     <ClInclude Include="Roman2Int.h" />
     <ClInclude Include="ThreeSum.h" />
     <ClInclude Include="ThreeSumClosest.h" />
