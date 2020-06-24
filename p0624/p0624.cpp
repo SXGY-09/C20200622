@@ -5,7 +5,7 @@
 #include "p0624.h"
 int main()
 {
-    SwapNode obj;
+    ReverseNode obj;
     obj.test();
 }
 
