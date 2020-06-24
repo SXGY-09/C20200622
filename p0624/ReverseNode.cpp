@@ -22,7 +22,9 @@ ListNode* ReverseNode::solve(ListNode* head, int k)
             first->next = prev;
             prev = first;
             first = tmp;
-            tmp = tmp->next;
+            if (tmp) {
+                tmp = tmp->next;
+            }
         }
         tmp = tail->next;
         tail->next = prev;
@@ -39,8 +41,7 @@ void ReverseNode::test()
     p1->next = new ListNode(2);
     p1->next->next = new ListNode(3);
     p1->next->next->next = new ListNode(4);
-    p1->next->next->next->next = new ListNode(5);
-    ListNode* result = solve(p1, 3);
+    ListNode* result = solve(p1, 2);
     ListNode* tmp = result;
     while (result) {
         cout << result->val << ",";
