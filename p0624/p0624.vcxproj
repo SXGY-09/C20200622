@@ -141,6 +141,8 @@
   <ItemGroup>
     <ClCompile Include="MergeList.cpp" />
     <ClCompile Include="p0624.cpp" />
+    <ClCompile Include="RemoveDuplicate.cpp" />
+    <ClCompile Include="RemoveElement.cpp" />
     <ClCompile Include="ReverseNode.cpp" />
     <ClCompile Include="SwapNode.cpp" />
   </ItemGroup>
@@ -148,6 +150,8 @@
     <ClInclude Include="ListNode.h" />
     <ClInclude Include="MergeList.h" />
     <ClInclude Include="p0624.h" />
+    <ClInclude Include="RemoveDuplicate.h" />
+    <ClInclude Include="RemoveElement.h" />
     <ClInclude Include="ReverseNode.h" />
     <ClInclude Include="SwapNode.h" />
   </ItemGroup>

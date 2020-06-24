@@ -5,7 +5,7 @@
 #include "p0624.h"
 int main()
 {
-    ReverseNode obj;
+    RemoveElement obj;
     obj.test();
 }
 
