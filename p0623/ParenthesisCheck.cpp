@@ -1,7 +1,7 @@
 #include "BracketCheck.h"
 #include <stack>
 #include <iostream>
-bool BracketCheck::solve(string s)
+bool ParenthesisCheck::solve(string s)
 {
 	if (s.length() == 0) {
 		return true;
@@ -28,7 +28,7 @@ bool BracketCheck::solve(string s)
 	return stack1.empty();
 }
 
-void BracketCheck::test()
+void ParenthesisCheck::test()
 {
 	string s = "{([{}])}";
 	cout << solve(s) << endl;

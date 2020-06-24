@@ -1,7 +1,7 @@
 #pragma once
 #include <string>
 using namespace std;
-class BracketCheck
+class ParenthesisCheck
 {
 public:
 	bool solve(string s);

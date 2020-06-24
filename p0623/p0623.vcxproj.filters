@@ -45,10 +45,10 @@
     <ClCompile Include="NthFromEnd.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="BracketCheck.cpp">
+    <ClCompile Include="ParenthesisGenerator.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="ParenthesisGenerator.cpp">
+    <ClCompile Include="ParenthesisCheck.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -86,10 +86,10 @@
     <ClInclude Include="ListNode.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="BracketCheck.h">
+    <ClInclude Include="ParenthesisGenerator.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="ParenthesisGenerator.h">
+    <ClInclude Include="ParenthesisCheck.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

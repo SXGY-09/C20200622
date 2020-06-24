@@ -8,5 +8,5 @@
 #include "FourSum.h"
 #include "LetterCombination.h"
 #include "NthFromEnd.h"
-#include "BracketCheck.h"
+#include "ParenthesisCheck.h"
 #include "ParenthesisGenerator.h"
