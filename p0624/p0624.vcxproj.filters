@@ -18,9 +18,18 @@
     <ClCompile Include="p0624.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="MergeList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="p0624.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ListNode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MergeList.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

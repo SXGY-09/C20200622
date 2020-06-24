@@ -139,9 +139,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="MergeList.cpp" />
     <ClCompile Include="p0624.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ListNode.h" />
+    <ClInclude Include="MergeList.h" />
     <ClInclude Include="p0624.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
