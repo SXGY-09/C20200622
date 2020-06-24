@@ -5,7 +5,7 @@
 #include "p0624.h"
 int main()
 {
-    RemoveElement obj;
+    StrStr obj;
     obj.test();
 }
 
