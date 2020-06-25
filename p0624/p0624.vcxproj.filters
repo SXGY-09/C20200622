@@ -60,6 +60,9 @@
     <ClCompile Include="SudokuSolve.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="CountAndSay.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="p0624.h">
@@ -108,6 +111,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="SudokuSolve.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CountAndSay.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

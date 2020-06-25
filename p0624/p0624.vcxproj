@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CountAndSay.cpp" />
     <ClCompile Include="DivideInt.cpp" />
     <ClCompile Include="MergeList.cpp" />
     <ClCompile Include="NextPermutation.cpp" />
@@ -156,6 +157,7 @@
     <ClCompile Include="SwapNode.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CountAndSay.h" />
     <ClInclude Include="DivideInt.h" />
     <ClInclude Include="ListNode.h" />
     <ClInclude Include="MergeList.h" />

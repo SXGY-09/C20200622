@@ -5,7 +5,7 @@
 #include "p0624.h"
 int main()
 {
-    SudokuSolve obj;
+    CountAndSay obj;
     obj.test();
 }
 
