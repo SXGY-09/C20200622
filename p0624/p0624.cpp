@@ -5,7 +5,7 @@
 #include "p0624.h"
 int main()
 {
-    SearchRange obj;
+    SearchInsert obj;
     obj.test();
 }
 

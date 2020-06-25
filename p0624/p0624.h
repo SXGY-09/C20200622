@@ -10,3 +10,4 @@
 #include "NextPermutation.h"
 #include "RotatedArray.h"
 #include "SearchRange.h"
+#include "SearchInsert.h"

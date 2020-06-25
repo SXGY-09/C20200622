@@ -51,6 +51,9 @@
     <ClCompile Include="SearchRange.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="SearchInsert.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="p0624.h">
@@ -90,6 +93,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="SearchRange.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SearchInsert.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

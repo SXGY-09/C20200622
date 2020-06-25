@@ -26,9 +26,8 @@ vector<int> SearchRange::solve(int* A, int n, int target)
             rt2 = mid - 1;
         }
     }
-    lt2--;
     if (lt1 <= rt2) {
-        return { lt1,lt2 };
+        return { lt1,rt2 };
     }
     return { -1,-1 };
 }
