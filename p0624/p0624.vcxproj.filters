@@ -54,6 +54,12 @@
     <ClCompile Include="SearchInsert.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="SudokuValid.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SudokuSolve.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="p0624.h">
@@ -96,6 +102,12 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="SearchInsert.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SudokuValid.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SudokuSolve.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

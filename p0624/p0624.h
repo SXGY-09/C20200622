@@ -11,3 +11,5 @@
 #include "RotatedArray.h"
 #include "SearchRange.h"
 #include "SearchInsert.h"
+#include "SudokuValid.h"
+#include "SudokuSolve.h"

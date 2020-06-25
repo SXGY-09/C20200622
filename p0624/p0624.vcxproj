@@ -151,6 +151,8 @@
     <ClCompile Include="SearchRange.cpp" />
     <ClCompile Include="StrStr.cpp" />
     <ClCompile Include="SubstringIndex.cpp" />
+    <ClCompile Include="SudokuSolve.cpp" />
+    <ClCompile Include="SudokuValid.cpp" />
     <ClCompile Include="SwapNode.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -167,6 +169,8 @@
     <ClInclude Include="SearchRange.h" />
     <ClInclude Include="StrStr.h" />
     <ClInclude Include="SubstringIndex.h" />
+    <ClInclude Include="SudokuSolve.h" />
+    <ClInclude Include="SudokuValid.h" />
     <ClInclude Include="SwapNode.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

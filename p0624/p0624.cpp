@@ -5,7 +5,7 @@
 #include "p0624.h"
 int main()
 {
-    SearchInsert obj;
+    SudokuSolve obj;
     obj.test();
 }
 
