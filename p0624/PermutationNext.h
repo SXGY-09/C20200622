@@ -1,7 +1,7 @@
 #pragma once
 #include <vector>
 using namespace std;
-class NextPermutation
+class PermutationNext
 {
 public:
 	void solve(vector<int>& num);

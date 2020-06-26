@@ -7,7 +7,7 @@
 #include "StrStr.h"
 #include "DivideInt.h"
 #include "SubstringIndex.h"
-#include "NextPermutation.h"
+#include "PermutationNext.h"
 #include "RotatedArray.h"
 #include "SearchRange.h"
 #include "SearchInsert.h"

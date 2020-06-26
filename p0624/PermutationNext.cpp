@@ -1,7 +1,7 @@
-#include "NextPermutation.h"
+#include "PermutationNext.h"
 #include <algorithm>
 #include <iostream>
-void NextPermutation::solve(vector<int>& num)
+void PermutationNext::solve(vector<int>& num)
 {
 	if (num.size() <= 1) {
 		return;
@@ -22,7 +22,7 @@ void NextPermutation::solve(vector<int>& num)
 	sort(num.begin() + i, num.end());
 }
 
-void NextPermutation::test()
+void PermutationNext::test()
 {
 	vector<int> num{ 1,3,5,8,4,7,6,5,3,1 };
 	solve(num);

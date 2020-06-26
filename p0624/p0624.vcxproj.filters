@@ -42,9 +42,6 @@
     <ClCompile Include="SubstringIndex.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="NextPermutation.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="RotatedArray.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -70,6 +67,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="MissingPositive.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PermutationNext.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -104,9 +104,6 @@
     <ClInclude Include="SubstringIndex.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="NextPermutation.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
     <ClInclude Include="RotatedArray.h">
       <Filter>头文件</Filter>
     </ClInclude>
@@ -132,6 +129,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="MissingPositive.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PermutationNext.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
