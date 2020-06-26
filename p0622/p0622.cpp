@@ -6,7 +6,7 @@
 using namespace std;
 int main()
 {
-    RegexMatch obj;
+    RegexMatch2 obj;
     obj.test();
 }
 

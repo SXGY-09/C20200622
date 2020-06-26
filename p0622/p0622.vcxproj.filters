@@ -48,6 +48,9 @@
     <ClCompile Include="RegexMatch.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="RegexMatch2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="p0622.h">
@@ -84,6 +87,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="RegexMatch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RegexMatch2.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

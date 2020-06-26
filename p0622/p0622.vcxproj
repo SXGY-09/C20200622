@@ -146,6 +146,7 @@
     <ClCompile Include="p0622.cpp" />
     <ClCompile Include="PalindromeInt.cpp" />
     <ClCompile Include="RegexMatch.cpp" />
+    <ClCompile Include="RegexMatch2.cpp" />
     <ClCompile Include="ReverseInt.cpp" />
     <ClCompile Include="Str2Int.cpp" />
     <ClCompile Include="TwoSum.cpp" />
@@ -160,6 +161,7 @@
     <ClInclude Include="p0622.h" />
     <ClInclude Include="PalindromeInt.h" />
     <ClInclude Include="RegexMatch.h" />
+    <ClInclude Include="RegexMatch2.h" />
     <ClInclude Include="ReverseInt.h" />
     <ClInclude Include="Str2Int.h" />
     <ClInclude Include="TwoSum.h" />

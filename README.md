@@ -13,6 +13,8 @@
   '.' Matches any single character.
   '*' Matches zero or more of the preceding element.
   The matching should cover theentireinput string (not partial).
++ RegexMatch2 实现支持'?'and'*'.的通配符模式匹配。
+  '?' 可以匹配任何单个字符。'*' 可以匹配任何字符序列（包括空序列）。
 
 ## p0623
 + MaxArea 给定n个非负整数a1，a2，…，an，其中每个数字表示坐标(i, ai)处的一个点。
@@ -57,3 +59,4 @@
 
 #p0426
 + TrapWater 给出n个数字，表示一个高程图，高程图中每一条的宽度为1，请计算下雨之后这个地形可以存储多少水
++ StringMultiply 给出两个用字符串表示的数字，将两个数字的乘积作为字符串返回。
