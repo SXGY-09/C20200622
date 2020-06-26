@@ -63,6 +63,12 @@
     <ClCompile Include="CountAndSay.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="CombinationSum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CombinationSum2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="p0624.h">
@@ -114,6 +120,12 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="CountAndSay.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CombinationSum.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CombinationSum2.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

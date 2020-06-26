@@ -5,7 +5,7 @@
 #include "p0624.h"
 int main()
 {
-    CountAndSay obj;
+    CombinationSum2 obj;
     obj.test();
 }
 

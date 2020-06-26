@@ -14,3 +14,5 @@
 #include "SudokuValid.h"
 #include "SudokuSolve.h"
 #include "CountAndSay.h"
+#include "CombinationSum.h"
+#include "CombinationSum2.h"
