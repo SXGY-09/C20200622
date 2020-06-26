@@ -5,7 +5,7 @@
 #include "p0624.h"
 int main()
 {
-    CombinationSum2 obj;
+    MissingPositive obj;
     obj.test();
 }
 
