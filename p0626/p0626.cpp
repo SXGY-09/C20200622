@@ -3,6 +3,6 @@
 #include "p0426.h"
 int main()
 {
-	StringMultiply obj;
+	JumpGame obj;
 	obj.test();
 }
