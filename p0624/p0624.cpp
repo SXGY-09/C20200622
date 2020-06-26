@@ -5,7 +5,7 @@
 #include "p0624.h"
 int main()
 {
-    MissingPositive obj;
+    PermutationAll obj;
     obj.test();
 }
 

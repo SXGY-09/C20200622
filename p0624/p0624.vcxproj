@@ -145,6 +145,7 @@
     <ClCompile Include="DivideInt.cpp" />
     <ClCompile Include="MergeList.cpp" />
     <ClCompile Include="MissingPositive.cpp" />
+    <ClCompile Include="PermutationAll.cpp" />
     <ClCompile Include="PermutationNext.cpp" />
     <ClCompile Include="p0624.cpp" />
     <ClCompile Include="RemoveDuplicate.cpp" />
@@ -167,6 +168,7 @@
     <ClInclude Include="ListNode.h" />
     <ClInclude Include="MergeList.h" />
     <ClInclude Include="MissingPositive.h" />
+    <ClInclude Include="PermutationAll.h" />
     <ClInclude Include="PermutationNext.h" />
     <ClInclude Include="p0624.h" />
     <ClInclude Include="RemoveDuplicate.h" />

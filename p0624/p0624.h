@@ -8,6 +8,7 @@
 #include "DivideInt.h"
 #include "SubstringIndex.h"
 #include "PermutationNext.h"
+#include "PermutationAll.h"
 #include "RotatedArray.h"
 #include "SearchRange.h"
 #include "SearchInsert.h"
