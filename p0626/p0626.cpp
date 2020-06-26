@@ -3,6 +3,6 @@
 #include "p0426.h"
 int main()
 {
-	TrapWater obj;
+	StringMultiply obj;
 	obj.test();
 }

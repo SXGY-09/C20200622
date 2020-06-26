@@ -140,10 +140,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="p0626.cpp" />
+    <ClCompile Include="StringMultiply.cpp" />
     <ClCompile Include="TrapWater.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="p0426.h" />
+    <ClInclude Include="StringMultiply.h" />
     <ClInclude Include="TrapWater.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
