@@ -6,3 +6,4 @@
 #include "QueenPermutation.h"
 #include "SubArray.h"
 #include "SpiralMatrix.h"
+#include "IntervalMerge.h"
