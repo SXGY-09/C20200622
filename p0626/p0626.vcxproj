@@ -144,6 +144,7 @@
     <ClCompile Include="QueenPermutation.cpp" />
     <ClCompile Include="RotateImage.cpp" />
     <ClCompile Include="StringMultiply.cpp" />
+    <ClCompile Include="SubArray.cpp" />
     <ClCompile Include="TrapWater.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -152,6 +153,7 @@
     <ClInclude Include="QueenPermutation.h" />
     <ClInclude Include="RotateImage.h" />
     <ClInclude Include="StringMultiply.h" />
+    <ClInclude Include="SubArray.h" />
     <ClInclude Include="TrapWater.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
