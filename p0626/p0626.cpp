@@ -3,6 +3,6 @@
 #include "p0426.h"
 int main()
 {
-	JumpGame obj;
+	RotateImage obj;
 	obj.test();
 }
