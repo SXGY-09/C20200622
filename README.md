@@ -1,66 +1,66 @@
 # C20200622
 ## p0622
-+ `TwoSum` ¸ø³öÒ»¸öÕûÊýÊý×é£¬ÇëÔÚÊý×éÖÐÕÒ³öÁ½¸ö¼ÓÆðÀ´µÈÓÚÄ¿±êÖµµÄÊý
-+ `MedianNumber` ÓÐÁ½¸ö´óÐ¡·Ö±ðÎªmºÍnµÄÓÐÐòÊý×éAºÍB¡£ÇëÕÒ³öÕâÁ½¸öÊý×éµÄÖÐÎ»Êý¡£ÄãÐèÒª¸ø³öÊ±¼ä¸´ÔÓ¶ÈÔÚO(log (m+n))ÒÔÄÚµÄËã·¨¡£
-+ `LongestSubstr` ¸ø¶¨Ò»¸ö×Ö·û´®£¬ÕÒ³ö×î³¤µÄ²»¾ßÓÐÖØ¸´×Ö·ûµÄ×Ó´®µÄ³¤¶È¡£
-+ `AddTwo` ¸ø¶¨Á½¸ö´ú±í·Ç¸ºÊýµÄÁ´±í£¬Êý×ÖÔÚÁ´±íÖÐÊÇ·´Ïò´æ´¢µÄ£¨Á´±íÍ·½áµã´¦µÄÊý×ÖÊÇ¸öÎ»Êý£¬µÚ¶þ¸ö½áµãÉÏµÄÊý×ÖÊÇÊ®Î»Êý...£©£¬ÇóÕâ¸öÁ½¸öÊýµÄºÍ£¬½á¹ûÒ²ÓÃÁ´±í±íÊ¾¡£
-+ `LongestPalindrome` ÕÒ³ö¸ø³öµÄ×Ö·û´®SÖÐ×î³¤µÄ»ØÎÄ×Ó´®¡£
-+ `ZigZag` ½«×Ö·û´®×ª»¯ÎªÖ¸¶¨ÐÐÊýµÄZ×ÖÐÎ×Ö·û´®¡£
-+ `ReverseInt` ½«¸ø³öµÄÕûÊýx·­×ª¡£
-+ `Str2Int` ½«×Ö·û´®×ª»¯ÎªÕûÊý
-+ `PalindromeInt` ÔÚ²»Ê¹ÓÃ¶îÍâµÄÄÚ´æ¿Õ¼äµÄÌõ¼þÏÂÅÐ¶ÏÒ»¸öÕûÊýÊÇ·ñÊÇ»ØÎÄ
-+ `RegexMatch` ÊµÏÖÖ§³Ö'.'and'*'µÄÍ¨Åä·ûÄ£Ê½Æ¥Åä¡£
++ `TwoSum` ç»™å‡ºä¸€ä¸ªæ•´æ•°æ•°ç»„ï¼Œè¯·åœ¨æ•°ç»„ä¸­æ‰¾å‡ºä¸¤ä¸ªåŠ èµ·æ¥ç­‰äºŽç›®æ ‡å€¼çš„æ•°
++ `MedianNumber` æœ‰ä¸¤ä¸ªå¤§å°åˆ†åˆ«ä¸ºmå’Œnçš„æœ‰åºæ•°ç»„Aå’ŒBã€‚è¯·æ‰¾å‡ºè¿™ä¸¤ä¸ªæ•°ç»„çš„ä¸­ä½æ•°ã€‚ä½ éœ€è¦ç»™å‡ºæ—¶é—´å¤æ‚åº¦åœ¨O(log (m+n))ä»¥å†…çš„ç®—æ³•ã€‚
++ `LongestSubstr` ç»™å®šä¸€ä¸ªå­—ç¬¦ä¸²ï¼Œæ‰¾å‡ºæœ€é•¿çš„ä¸å…·æœ‰é‡å¤å­—ç¬¦çš„å­ä¸²çš„é•¿åº¦ã€‚
++ `AddTwo` ç»™å®šä¸¤ä¸ªä»£è¡¨éžè´Ÿæ•°çš„é“¾è¡¨ï¼Œæ•°å­—åœ¨é“¾è¡¨ä¸­æ˜¯åå‘å­˜å‚¨çš„ï¼ˆé“¾è¡¨å¤´ç»“ç‚¹å¤„çš„æ•°å­—æ˜¯ä¸ªä½æ•°ï¼Œç¬¬äºŒä¸ªç»“ç‚¹ä¸Šçš„æ•°å­—æ˜¯åä½æ•°...ï¼‰ï¼Œæ±‚è¿™ä¸ªä¸¤ä¸ªæ•°çš„å’Œï¼Œç»“æžœä¹Ÿç”¨é“¾è¡¨è¡¨ç¤ºã€‚
++ `LongestPalindrome` æ‰¾å‡ºç»™å‡ºçš„å­—ç¬¦ä¸²Sä¸­æœ€é•¿çš„å›žæ–‡å­ä¸²ã€‚
++ `ZigZag` å°†å­—ç¬¦ä¸²è½¬åŒ–ä¸ºæŒ‡å®šè¡Œæ•°çš„Zå­—å½¢å­—ç¬¦ä¸²ã€‚
++ `ReverseInt` å°†ç»™å‡ºçš„æ•´æ•°xç¿»è½¬ã€‚
++ `Str2Int` å°†å­—ç¬¦ä¸²è½¬åŒ–ä¸ºæ•´æ•°
++ `PalindromeInt` åœ¨ä¸ä½¿ç”¨é¢å¤–çš„å†…å­˜ç©ºé—´çš„æ¡ä»¶ä¸‹åˆ¤æ–­ä¸€ä¸ªæ•´æ•°æ˜¯å¦æ˜¯å›žæ–‡
++ `RegexMatch` å®žçŽ°æ”¯æŒ'.'and'*'çš„é€šé…ç¬¦æ¨¡å¼åŒ¹é…ã€‚
   '.' Matches any single character.
   '*' Matches zero or more of the preceding element.
   The matching should cover theentireinput string (not partial).
-+ `RegexMatch2` ÊµÏÖÖ§³Ö'?'and'*'.µÄÍ¨Åä·ûÄ£Ê½Æ¥Åä¡£
-  '?' ¿ÉÒÔÆ¥ÅäÈÎºÎµ¥¸ö×Ö·û¡£'*' ¿ÉÒÔÆ¥ÅäÈÎºÎ×Ö·ûÐòÁÐ£¨°üÀ¨¿ÕÐòÁÐ£©¡£
++ `RegexMatch2` å®žçŽ°æ”¯æŒ'?'and'*'.çš„é€šé…ç¬¦æ¨¡å¼åŒ¹é…ã€‚
+  '?' å¯ä»¥åŒ¹é…ä»»ä½•å•ä¸ªå­—ç¬¦ã€‚'*' å¯ä»¥åŒ¹é…ä»»ä½•å­—ç¬¦åºåˆ—ï¼ˆåŒ…æ‹¬ç©ºåºåˆ—ï¼‰ã€‚
 
 ## p0623
-+ `MaxArea` ¸ø¶¨n¸ö·Ç¸ºÕûÊýa1£¬a2£¬¡­£¬an£¬ÆäÖÐÃ¿¸öÊý×Ö±íÊ¾×ø±ê(i, ai)´¦µÄÒ»¸öµã¡£
-  ÒÔ£¨i£¬ai£©ºÍ£¨i£¬0£©£¨i=1,2,3...n£©Îª¶Ëµã»­³önÌõÖ±Ïß¡£
-  Äã¿ÉÒÔ´ÓÖÐÑ¡ÔñÁ½ÌõÏßÓëxÖáÒ»Æð¹¹³ÉÒ»¸öÈÝÆ÷£¬×î´óµÄÈÝÆ÷ÄÜ×°¶àÉÙË®£¿
-+ `Int2Roman` ½«¸ø³öµÄÕûÊý×ª»¯ÎªÂÞÂíÊý×Ö¡£±£Ö¤ÊäÈëÊý×ÖµÄ·¶Î§ÔÚ1 µ½ 3999Ö®¼ä¡£
-+ `Roman2Int` ½«¸ø³öµÄÂÞÂíÊý×Ö×ª»¯ÎªÕûÊý¡£±£Ö¤ÊäÈëµÄÊý×Ö·¶Î§ÔÚ1 µ½ 3999Ö®¼ä¡£
-+ `CommonPrefix` ²éÕÒ×Ö·û´®Êý×éÖÐµÄ×î³¤¹«¹²Ç°×º¡£
-+ `ThreeSum` ¸ø³öÒ»¸öÓÐn¸öÔªËØµÄÊý×éS£¬SÖÐÊÇ·ñÓÐÔªËØa,b,cÂú×ãa+b+c=0£¿ÕÒ³öÊý×éSÖÐËùÓÐÂú×ãÌõ¼þµÄÈýÔª×é¡£
-+ `ThreeSumClosest` ¸ø³öº¬ÓÐn¸öÕûÊýµÄÊý×és£¬ÕÒ³ösÖÐºÍ¼ÓÆðÀ´µÄºÍ×î½Ó½ü¸ø¶¨µÄÄ¿±êÖµµÄÈý¸öÕûÊý¡£·µ»ØÕâÈý¸öÕûÊýµÄºÍ¡£
-+ `FourSum` ¸ø³öÒ»¸öÓÐn¸öÔªËØµÄÊý×éS£¬SÖÐÊÇ·ñÓÐÔªËØa,b,c,dÂú×ãa+b+c+d=Ä¿±êÖµ£¿ÕÒ³öÊý×éSÖÐËùÓÐÂú×ãÌõ¼þµÄËÄÔª×é¡£
-+ `LetterCombination` ¸ø³öÒ»¸ö½ö°üº¬Êý×ÖµÄ×Ö·û´®£¬¸ø³öËùÓÐ¿ÉÄÜµÄ×ÖÄ¸×éºÏ¡£
-+ `NthFromEnd` ¸ø¶¨Ò»¸öÁ´±í£¬É¾³ýÁ´±íµÄµ¹ÊýµÚn¸ö½Úµã²¢·µ»ØÁ´±íµÄÍ·Ö¸Õë
-+ `ParenthesisCheck` ¸ø³öÒ»¸ö½ö°üº¬×Ö·û'(',')','{','}','['ºÍ']',µÄ×Ö·û´®£¬ÅÐ¶Ï¸ø³öµÄ×Ö·û´®ÊÇ·ñÊÇºÏ·¨µÄÀ¨ºÅÐòÁÐ
-+ `ParenthesisGenerator` ¸ø³ön¶ÔÀ¨ºÅ£¬Çë±àÐ´Ò»¸öº¯ÊýÀ´Éú³ÉËùÓÐµÄÓÉn¶ÔÀ¨ºÅ×é³ÉµÄºÏ·¨×éºÏ¡£
-+ `ParenthesisSubstring` ¸ø³öÒ»¸ö½ö°üº¬×Ö·û'('ºÍ')'µÄ×Ö·û´®£¬¼ÆËã×î³¤µÄ¸ñÊ½ÕýÈ·µÄÀ¨ºÅ×Ó´®µÄ³¤¶È¡£
++ `MaxArea` ç»™å®šnä¸ªéžè´Ÿæ•´æ•°a1ï¼Œa2ï¼Œâ€¦ï¼Œanï¼Œå…¶ä¸­æ¯ä¸ªæ•°å­—è¡¨ç¤ºåæ ‡(i, ai)å¤„çš„ä¸€ä¸ªç‚¹ã€‚
+  ä»¥ï¼ˆiï¼Œaiï¼‰å’Œï¼ˆiï¼Œ0ï¼‰ï¼ˆi=1,2,3...nï¼‰ä¸ºç«¯ç‚¹ç”»å‡ºnæ¡ç›´çº¿ã€‚
+  ä½ å¯ä»¥ä»Žä¸­é€‰æ‹©ä¸¤æ¡çº¿ä¸Žxè½´ä¸€èµ·æž„æˆä¸€ä¸ªå®¹å™¨ï¼Œæœ€å¤§çš„å®¹å™¨èƒ½è£…å¤šå°‘æ°´ï¼Ÿ
++ `Int2Roman` å°†ç»™å‡ºçš„æ•´æ•°è½¬åŒ–ä¸ºç½—é©¬æ•°å­—ã€‚ä¿è¯è¾“å…¥æ•°å­—çš„èŒƒå›´åœ¨1 åˆ° 3999ä¹‹é—´ã€‚
++ `Roman2Int` å°†ç»™å‡ºçš„ç½—é©¬æ•°å­—è½¬åŒ–ä¸ºæ•´æ•°ã€‚ä¿è¯è¾“å…¥çš„æ•°å­—èŒƒå›´åœ¨1 åˆ° 3999ä¹‹é—´ã€‚
++ `CommonPrefix` æŸ¥æ‰¾å­—ç¬¦ä¸²æ•°ç»„ä¸­çš„æœ€é•¿å…¬å…±å‰ç¼€ã€‚
++ `ThreeSum` ç»™å‡ºä¸€ä¸ªæœ‰nä¸ªå…ƒç´ çš„æ•°ç»„Sï¼ŒSä¸­æ˜¯å¦æœ‰å…ƒç´ a,b,cæ»¡è¶³a+b+c=0ï¼Ÿæ‰¾å‡ºæ•°ç»„Sä¸­æ‰€æœ‰æ»¡è¶³æ¡ä»¶çš„ä¸‰å…ƒç»„ã€‚
++ `ThreeSumClosest` ç»™å‡ºå«æœ‰nä¸ªæ•´æ•°çš„æ•°ç»„sï¼Œæ‰¾å‡ºsä¸­å’ŒåŠ èµ·æ¥çš„å’Œæœ€æŽ¥è¿‘ç»™å®šçš„ç›®æ ‡å€¼çš„ä¸‰ä¸ªæ•´æ•°ã€‚è¿”å›žè¿™ä¸‰ä¸ªæ•´æ•°çš„å’Œã€‚
++ `FourSum` ç»™å‡ºä¸€ä¸ªæœ‰nä¸ªå…ƒç´ çš„æ•°ç»„Sï¼ŒSä¸­æ˜¯å¦æœ‰å…ƒç´ a,b,c,dæ»¡è¶³a+b+c+d=ç›®æ ‡å€¼ï¼Ÿæ‰¾å‡ºæ•°ç»„Sä¸­æ‰€æœ‰æ»¡è¶³æ¡ä»¶çš„å››å…ƒç»„ã€‚
++ `LetterCombination` ç»™å‡ºä¸€ä¸ªä»…åŒ…å«æ•°å­—çš„å­—ç¬¦ä¸²ï¼Œç»™å‡ºæ‰€æœ‰å¯èƒ½çš„å­—æ¯ç»„åˆã€‚
++ `NthFromEnd` ç»™å®šä¸€ä¸ªé“¾è¡¨ï¼Œåˆ é™¤é“¾è¡¨çš„å€’æ•°ç¬¬nä¸ªèŠ‚ç‚¹å¹¶è¿”å›žé“¾è¡¨çš„å¤´æŒ‡é’ˆ
++ `ParenthesisCheck` ç»™å‡ºä¸€ä¸ªä»…åŒ…å«å­—ç¬¦'(',')','{','}','['å’Œ']',çš„å­—ç¬¦ä¸²ï¼Œåˆ¤æ–­ç»™å‡ºçš„å­—ç¬¦ä¸²æ˜¯å¦æ˜¯åˆæ³•çš„æ‹¬å·åºåˆ—
++ `ParenthesisGenerator` ç»™å‡ºnå¯¹æ‹¬å·ï¼Œè¯·ç¼–å†™ä¸€ä¸ªå‡½æ•°æ¥ç”Ÿæˆæ‰€æœ‰çš„ç”±nå¯¹æ‹¬å·ç»„æˆçš„åˆæ³•ç»„åˆã€‚
++ `ParenthesisSubstring` ç»™å‡ºä¸€ä¸ªä»…åŒ…å«å­—ç¬¦'('å’Œ')'çš„å­—ç¬¦ä¸²ï¼Œè®¡ç®—æœ€é•¿çš„æ ¼å¼æ­£ç¡®çš„æ‹¬å·å­ä¸²çš„é•¿åº¦ã€‚
 
 ## p0624
-+ `MergeList` ºÏ²¢k¸öÒÑÅÅÐòµÄÁ´±í²¢½«Æä×÷ÎªÒ»¸öÒÑÅÅÐòµÄÁ´±í·µ»Ø¡£·ÖÎö²¢ÃèÊöÆä¸´ÔÓ¶È¡£
-+ `SwapNode` ½«¸ø¶¨µÄÁ´±íÖÐÃ¿Á½¸öÏàÁÚµÄ½Úµã½»»»Ò»´Î£¬·µ»ØÁ´±íµÄÍ·Ö¸Õë
-+ `ReverseNode` ½«¸ø³öµÄÁ´±íÖÐµÄ½ÚµãÃ¿k¸öÒ»×é·­×ª£¬·µ»Ø·­×ªºóµÄÁ´±í¡£Èç¹ûÁ´±íÖÐµÄ½ÚµãÊý²»ÊÇkµÄ±¶Êý£¬½«×îºóÊ£ÏÂµÄ½Úµã±£³ÖÔ­Ñù
-+ `RemoveDuplicate` ¸ø¶¨Ò»¸öÒÑÅÅÐòµÄÊý×é£¬Ê¹ÓÃ¾ÍµØËã·¨½«ÖØ¸´µÄÊý×ÖÒÆ³ý£¬Ê¹Êý×éÖÐµÄÃ¿¸öÔªËØÖ»³öÏÖÒ»´Î£¬·µ»ØÐÂÊý×éµÄ³¤¶È¡£
-+ `RemoveElement` ¸ø¶¨Ò»¸öÊý×éºÍÒ»¸öÖµ£¬Ê¹ÓÃ¾ÍµØËã·¨½«Êý×éÖÐËùÓÐµÈÓÚÕâ¸öÖµµÄÔªËØÉ¾³ý£¬²¢·µ»ØÐÂÊý×éµÄ³¤¶È¡£
-+ `StrStr` ÊµÏÖº¯Êý strStr¡£
-+ `DivideInt` ÔÚ²»Ê¹ÓÃ³Ë·¨ÔËËã·û£¬³ý·¨ÔËËã·ûºÍÈ¡ÓàÔËËã·ûµÄÇé¿öÏÂ¶ÔÁ½¸öÊý½øÐÐÏà³ý²Ù×÷
-+ `SubstringIndex` ¸ø³öÒ»¸ö×Ö·û´®SºÍÒ»×éµ¥´ÊL£¬LÖÐµ¥´ÊµÄ³¤¶È¶¼ÏàµÈ£¬ÕÒ³öSÖÐµÄ·ûºÏÒÔÏÂÒªÇóµÄ×Ó´®ÔÚSÖÐµÄÆðÊ¼Î»ÖÃË÷Òý£º×Ó´®ÎªLÖÐËùÓÐµ¥´Ê´®ÁªÔÚÒ»Æð(µ¥´ÊµÄË³ÐòËæÒâ)£¬LÖÐµÄÃ¿¸öµ¥´ÊÖ»³öÏÖÒ»´Î£¬ÖÐ¼ä²»ÄÜÓÐÆäËûµÄ×Ö·û¡£
-+ `PermutationNext` ½«ÅÅÁÐÖÐµÄÊý×ÖÖØÐÂÅÅÁÐ³É×ÖµäÐòÖÐµÄÏÂÒ»¸ö¸ü´óµÄÅÅÁÐ¡£
-+ `PermutationAll` ¸ø³öÒ»×éÊý×Ö£¬·µ»Ø¸Ã×éÊý×ÖµÄËùÓÐÅÅÁÐ£»²»¿¼ÂÇÖØ¸´ºÍ¿¼ÂÇÖØ¸´
-+ `RotatedArray` ¸ø³öÒ»¸ö×ª¶¯¹ýµÄÓÐÐòÊý×é£¬ÄãÊÂÏÈ²»ÖªµÀ¸ÃÊý×é×ª¶¯ÁË¶àÉÙ¡£ÔÚÊý×éÖÐËÑË÷¸ø³öµÄÄ¿±êÖµ£¬Èç¹ûÄÜÔÚÊý×éÖÐÕÒµ½£¬·µ»ØËüµÄË÷Òý£¬·ñÔò·µ»Ø-1¡£¼ÙÉèÊý×éÖÐ²»´æÔÚÖØ¸´Ïî¡£
-+ `SearchRange` ¸ø³öÒ»¸öÓÐÐòÊý×é£¬ÇëÔÚÊý×éÖÐÕÒ³öÄ¿±êÖµµÄÆðÊ¼Î»ÖÃºÍ½áÊøÎ»ÖÃ
-+ `SearchInsert` ¸ø³öÒ»¸öÓÐÐòµÄÊý×éºÍÒ»¸öÄ¿±êÖµ£¬Èç¹ûÊý×éÖÐ´æÔÚ¸ÃÄ¿±êÖµ£¬Ôò·µ»Ø¸ÃÄ¿±êÖµµÄÏÂ±ê¡£Èç¹ûÊý×éÖÐ²»´æÔÚ¸ÃÄ¿±êÖµ£¬Ôò·µ»ØÈç¹û½«¸ÃÄ¿±êÖµ²åÈëÕâ¸öÊý×éÓ¦¸Ã²åÈëµÄÎ»ÖÃµÄÏÂ±ê
-+ `SudokuValid` ¸ù¾ÝÊý¶ÀµÄ¹æÔòSudoku Puzzles - The Rules.ÅÐ¶Ï¸ø³öµÄ¾ÖÃæÊÇ²»ÊÇÒ»¸ö·ûºÏ¹æÔòµÄÊý¶À¾ÖÃæ¡£Êý¶ÀÅÌÃæ¿ÉÒÔ±»²¿·ÖÌîÐ´£¬¿ÕµÄÎ»ÖÃÓÃ×Ö·û'.'.±íÊ¾
-+ `SudokuSolve` ¸øÊý¶ÀÖÐµÄÊ£ÓàµÄ¿Õ¸ñÌîÐ´ÉÏÊý×Ö¡£¿Õ¸ñÓÃ×Ö·û'.'±íÊ¾¡£¼ÙÉè¸ø¶¨µÄÊý¶ÀÖ»ÓÐÎ¨Ò»µÄ½â·¨
-+ `CountAndSay` count-and-sayÊýÁÐµÄÇ°¼¸ÏîÈçÏÂ£º
++ `MergeList` åˆå¹¶kä¸ªå·²æŽ’åºçš„é“¾è¡¨å¹¶å°†å…¶ä½œä¸ºä¸€ä¸ªå·²æŽ’åºçš„é“¾è¡¨è¿”å›žã€‚åˆ†æžå¹¶æè¿°å…¶å¤æ‚åº¦ã€‚
++ `SwapNode` å°†ç»™å®šçš„é“¾è¡¨ä¸­æ¯ä¸¤ä¸ªç›¸é‚»çš„èŠ‚ç‚¹äº¤æ¢ä¸€æ¬¡ï¼Œè¿”å›žé“¾è¡¨çš„å¤´æŒ‡é’ˆ
++ `ReverseNode` å°†ç»™å‡ºçš„é“¾è¡¨ä¸­çš„èŠ‚ç‚¹æ¯kä¸ªä¸€ç»„ç¿»è½¬ï¼Œè¿”å›žç¿»è½¬åŽçš„é“¾è¡¨ã€‚å¦‚æžœé“¾è¡¨ä¸­çš„èŠ‚ç‚¹æ•°ä¸æ˜¯kçš„å€æ•°ï¼Œå°†æœ€åŽå‰©ä¸‹çš„èŠ‚ç‚¹ä¿æŒåŽŸæ ·
++ `RemoveDuplicate` ç»™å®šä¸€ä¸ªå·²æŽ’åºçš„æ•°ç»„ï¼Œä½¿ç”¨å°±åœ°ç®—æ³•å°†é‡å¤çš„æ•°å­—ç§»é™¤ï¼Œä½¿æ•°ç»„ä¸­çš„æ¯ä¸ªå…ƒç´ åªå‡ºçŽ°ä¸€æ¬¡ï¼Œè¿”å›žæ–°æ•°ç»„çš„é•¿åº¦ã€‚
++ `RemoveElement` ç»™å®šä¸€ä¸ªæ•°ç»„å’Œä¸€ä¸ªå€¼ï¼Œä½¿ç”¨å°±åœ°ç®—æ³•å°†æ•°ç»„ä¸­æ‰€æœ‰ç­‰äºŽè¿™ä¸ªå€¼çš„å…ƒç´ åˆ é™¤ï¼Œå¹¶è¿”å›žæ–°æ•°ç»„çš„é•¿åº¦ã€‚
++ `StrStr` å®žçŽ°å‡½æ•° strStrã€‚
++ `DivideInt` åœ¨ä¸ä½¿ç”¨ä¹˜æ³•è¿ç®—ç¬¦ï¼Œé™¤æ³•è¿ç®—ç¬¦å’Œå–ä½™è¿ç®—ç¬¦çš„æƒ…å†µä¸‹å¯¹ä¸¤ä¸ªæ•°è¿›è¡Œç›¸é™¤æ“ä½œ
++ `SubstringIndex` ç»™å‡ºä¸€ä¸ªå­—ç¬¦ä¸²Så’Œä¸€ç»„å•è¯Lï¼ŒLä¸­å•è¯çš„é•¿åº¦éƒ½ç›¸ç­‰ï¼Œæ‰¾å‡ºSä¸­çš„ç¬¦åˆä»¥ä¸‹è¦æ±‚çš„å­ä¸²åœ¨Sä¸­çš„èµ·å§‹ä½ç½®ç´¢å¼•ï¼šå­ä¸²ä¸ºLä¸­æ‰€æœ‰å•è¯ä¸²è”åœ¨ä¸€èµ·(å•è¯çš„é¡ºåºéšæ„)ï¼ŒLä¸­çš„æ¯ä¸ªå•è¯åªå‡ºçŽ°ä¸€æ¬¡ï¼Œä¸­é—´ä¸èƒ½æœ‰å…¶ä»–çš„å­—ç¬¦ã€‚
++ `PermutationNext` å°†æŽ’åˆ—ä¸­çš„æ•°å­—é‡æ–°æŽ’åˆ—æˆå­—å…¸åºä¸­çš„ä¸‹ä¸€ä¸ªæ›´å¤§çš„æŽ’åˆ—ã€‚
++ `PermutationAll` ç»™å‡ºä¸€ç»„æ•°å­—ï¼Œè¿”å›žè¯¥ç»„æ•°å­—çš„æ‰€æœ‰æŽ’åˆ—ï¼›ä¸è€ƒè™‘é‡å¤å’Œè€ƒè™‘é‡å¤
++ `RotatedArray` ç»™å‡ºä¸€ä¸ªè½¬åŠ¨è¿‡çš„æœ‰åºæ•°ç»„ï¼Œä½ äº‹å…ˆä¸çŸ¥é“è¯¥æ•°ç»„è½¬åŠ¨äº†å¤šå°‘ã€‚åœ¨æ•°ç»„ä¸­æœç´¢ç»™å‡ºçš„ç›®æ ‡å€¼ï¼Œå¦‚æžœèƒ½åœ¨æ•°ç»„ä¸­æ‰¾åˆ°ï¼Œè¿”å›žå®ƒçš„ç´¢å¼•ï¼Œå¦åˆ™è¿”å›ž-1ã€‚å‡è®¾æ•°ç»„ä¸­ä¸å­˜åœ¨é‡å¤é¡¹ã€‚
++ `SearchRange` ç»™å‡ºä¸€ä¸ªæœ‰åºæ•°ç»„ï¼Œè¯·åœ¨æ•°ç»„ä¸­æ‰¾å‡ºç›®æ ‡å€¼çš„èµ·å§‹ä½ç½®å’Œç»“æŸä½ç½®
++ `SearchInsert` ç»™å‡ºä¸€ä¸ªæœ‰åºçš„æ•°ç»„å’Œä¸€ä¸ªç›®æ ‡å€¼ï¼Œå¦‚æžœæ•°ç»„ä¸­å­˜åœ¨è¯¥ç›®æ ‡å€¼ï¼Œåˆ™è¿”å›žè¯¥ç›®æ ‡å€¼çš„ä¸‹æ ‡ã€‚å¦‚æžœæ•°ç»„ä¸­ä¸å­˜åœ¨è¯¥ç›®æ ‡å€¼ï¼Œåˆ™è¿”å›žå¦‚æžœå°†è¯¥ç›®æ ‡å€¼æ’å…¥è¿™ä¸ªæ•°ç»„åº”è¯¥æ’å…¥çš„ä½ç½®çš„ä¸‹æ ‡
++ `SudokuValid` æ ¹æ®æ•°ç‹¬çš„è§„åˆ™Sudoku Puzzles - The Rules.åˆ¤æ–­ç»™å‡ºçš„å±€é¢æ˜¯ä¸æ˜¯ä¸€ä¸ªç¬¦åˆè§„åˆ™çš„æ•°ç‹¬å±€é¢ã€‚æ•°ç‹¬ç›˜é¢å¯ä»¥è¢«éƒ¨åˆ†å¡«å†™ï¼Œç©ºçš„ä½ç½®ç”¨å­—ç¬¦'.'.è¡¨ç¤º
++ `SudokuSolve` ç»™æ•°ç‹¬ä¸­çš„å‰©ä½™çš„ç©ºæ ¼å¡«å†™ä¸Šæ•°å­—ã€‚ç©ºæ ¼ç”¨å­—ç¬¦'.'è¡¨ç¤ºã€‚å‡è®¾ç»™å®šçš„æ•°ç‹¬åªæœ‰å”¯ä¸€çš„è§£æ³•
++ `CountAndSay` count-and-sayæ•°åˆ—çš„å‰å‡ é¡¹å¦‚ä¸‹ï¼š
   1, 11, 21, 1211, 111221, ...
-  1¶Á×÷¡°1¸ö1¡±»ò11
-  11¶Á×÷¡°2¸ö1¡°»òÕß21
-  21¶Á×÷¡±1¸ö2£¬1¸ö1¡°»òÕß1211
-  ¸ø³öÒ»¸öÕûÊýn£¬Çë¸ø³öÐòÁÐµÄµÚnÏî
-+ `CombinationSum` ¸ø³öÒ»×éºòÑ¡ÊýCºÍÒ»¸öÄ¿±êÊýT£¬ÕÒ³öºòÑ¡ÊýÖÐ¼ÓÆðÀ´ºÍµÈÓÚTµÄËùÓÐ×éºÏ¡£CÖÐµÄÊý×ÖÔÚ×éºÏÖÐ¿ÉÒÔ±»ÎÞÏÞ´ÎÊ¹ÓÃ¡£ËùÓÐµÄÊý×Ö£¨°üÀ¨Ä¿±êÊýT£©¶¼ÊÇÕýÕûÊý
-+ `CombinationSum2` ¸ø³öÒ»×éºòÑ¡ÊýCºÍÒ»¸öÄ¿±êÊýT£¬ÕÒ³öºòÑ¡ÊýÖÐ¼ÓÆðÀ´ºÍµÈÓÚTµÄËùÓÐ×éºÏ¡£CÖÐµÄÃ¿¸öÊý×ÖÔÚÒ»¸ö×éºÏÖÐÖ»ÄÜÊ¹ÓÃÒ»´Î¡£ËùÓÐµÄÊý×Ö£¨°üÀ¨Ä¿±êÊýT£©¶¼ÊÇÕýÕûÊý
-+ `MissingPositive` ¸ø³öÒ»¸öÎÞÐòµÄÕûÊýÐÍÊý×é£¬Çó²»ÔÚ¸ø¶¨Êý×éÀïµÄ×îÐ¡µÄÕýÕûÊý
+  1è¯»ä½œâ€œ1ä¸ª1â€æˆ–11
+  11è¯»ä½œâ€œ2ä¸ª1â€œæˆ–è€…21
+  21è¯»ä½œâ€1ä¸ª2ï¼Œ1ä¸ª1â€œæˆ–è€…1211
+  ç»™å‡ºä¸€ä¸ªæ•´æ•°nï¼Œè¯·ç»™å‡ºåºåˆ—çš„ç¬¬né¡¹
++ `CombinationSum` ç»™å‡ºä¸€ç»„å€™é€‰æ•°Cå’Œä¸€ä¸ªç›®æ ‡æ•°Tï¼Œæ‰¾å‡ºå€™é€‰æ•°ä¸­åŠ èµ·æ¥å’Œç­‰äºŽTçš„æ‰€æœ‰ç»„åˆã€‚Cä¸­çš„æ•°å­—åœ¨ç»„åˆä¸­å¯ä»¥è¢«æ— é™æ¬¡ä½¿ç”¨ã€‚æ‰€æœ‰çš„æ•°å­—ï¼ˆåŒ…æ‹¬ç›®æ ‡æ•°Tï¼‰éƒ½æ˜¯æ­£æ•´æ•°
++ `CombinationSum2` ç»™å‡ºä¸€ç»„å€™é€‰æ•°Cå’Œä¸€ä¸ªç›®æ ‡æ•°Tï¼Œæ‰¾å‡ºå€™é€‰æ•°ä¸­åŠ èµ·æ¥å’Œç­‰äºŽTçš„æ‰€æœ‰ç»„åˆã€‚Cä¸­çš„æ¯ä¸ªæ•°å­—åœ¨ä¸€ä¸ªç»„åˆä¸­åªèƒ½ä½¿ç”¨ä¸€æ¬¡ã€‚æ‰€æœ‰çš„æ•°å­—ï¼ˆåŒ…æ‹¬ç›®æ ‡æ•°Tï¼‰éƒ½æ˜¯æ­£æ•´æ•°
++ `MissingPositive` ç»™å‡ºä¸€ä¸ªæ— åºçš„æ•´æ•°åž‹æ•°ç»„ï¼Œæ±‚ä¸åœ¨ç»™å®šæ•°ç»„é‡Œçš„æœ€å°çš„æ­£æ•´æ•°
 
-#p0426
-+ `TrapWater` ¸ø³ön¸öÊý×Ö£¬±íÊ¾Ò»¸ö¸ß³ÌÍ¼£¬¸ß³ÌÍ¼ÖÐÃ¿Ò»ÌõµÄ¿í¶ÈÎª1£¬Çë¼ÆËãÏÂÓêÖ®ºóÕâ¸öµØÐÎ¿ÉÒÔ´æ´¢¶àÉÙË®
-+ `StringMultiply` ¸ø³öÁ½¸öÓÃ×Ö·û´®±íÊ¾µÄÊý×Ö£¬½«Á½¸öÊý×ÖµÄ³Ë»ý×÷Îª×Ö·û´®·µ»Ø¡£
-+ `JumpGame` ¸ø³öÒ»¸ö·Ç¸ºÕûÊýÊý×é£¬Äã×î³õÔÚÊý×éµÚÒ»¸öÔªËØµÄÎ»ÖÃ£¬Êý×éÖÐµÄÔªËØ´ú±íÄãÔÚÕâ¸öÎ»ÖÃ¿ÉÒÔÌøÔ¾µÄ×î´ó³¤¶È¡£ÄãµÄÄ¿±êÊÇÓÃ×îÉÙµÄÌøÔ¾´ÎÊýÀ´µ½´ïÊý×éµÄ×îºóÒ»¸öÔªËØµÄÎ»ÖÃ
-+ `RotateImage` ¸ø³öÒ»¸öÓÃ¶þÎ¬¾ØÕó±íÊ¾µÄÍ¼Ïñ¡£·µ»Ø¸ÃÍ¼ÏñË³Ê±ÕëÐý×ª90¶ÈµÄ½á¹û¡£Ô­µØËã·¨
-+ `QueenPermutation` N»ÊºóÎÊÌâÊÇ°ÑN¸ö»Êºó·ÅÔÚÒ»¸öN¡ÁNÆåÅÌÉÏ£¬Ê¹»ÊºóÖ®¼ä²»»á»¥Ïà¹¥»÷¡£
+## p0426
++ `TrapWater` ç»™å‡ºnä¸ªæ•°å­—ï¼Œè¡¨ç¤ºä¸€ä¸ªé«˜ç¨‹å›¾ï¼Œé«˜ç¨‹å›¾ä¸­æ¯ä¸€æ¡çš„å®½åº¦ä¸º1ï¼Œè¯·è®¡ç®—ä¸‹é›¨ä¹‹åŽè¿™ä¸ªåœ°å½¢å¯ä»¥å­˜å‚¨å¤šå°‘æ°´
++ `StringMultiply` ç»™å‡ºä¸¤ä¸ªç”¨å­—ç¬¦ä¸²è¡¨ç¤ºçš„æ•°å­—ï¼Œå°†ä¸¤ä¸ªæ•°å­—çš„ä¹˜ç§¯ä½œä¸ºå­—ç¬¦ä¸²è¿”å›žã€‚
++ `JumpGame` ç»™å‡ºä¸€ä¸ªéžè´Ÿæ•´æ•°æ•°ç»„ï¼Œä½ æœ€åˆåœ¨æ•°ç»„ç¬¬ä¸€ä¸ªå…ƒç´ çš„ä½ç½®ï¼Œæ•°ç»„ä¸­çš„å…ƒç´ ä»£è¡¨ä½ åœ¨è¿™ä¸ªä½ç½®å¯ä»¥è·³è·ƒçš„æœ€å¤§é•¿åº¦ã€‚ä½ çš„ç›®æ ‡æ˜¯ç”¨æœ€å°‘çš„è·³è·ƒæ¬¡æ•°æ¥åˆ°è¾¾æ•°ç»„çš„æœ€åŽä¸€ä¸ªå…ƒç´ çš„ä½ç½®
++ `RotateImage` ç»™å‡ºä¸€ä¸ªç”¨äºŒç»´çŸ©é˜µè¡¨ç¤ºçš„å›¾åƒã€‚è¿”å›žè¯¥å›¾åƒé¡ºæ—¶é’ˆæ—‹è½¬90åº¦çš„ç»“æžœã€‚åŽŸåœ°ç®—æ³•
++ `QueenPermutation` Nçš‡åŽé—®é¢˜æ˜¯æŠŠNä¸ªçš‡åŽæ”¾åœ¨ä¸€ä¸ªNÃ—Næ£‹ç›˜ä¸Šï¼Œä½¿çš‡åŽä¹‹é—´ä¸ä¼šäº’ç›¸æ”»å‡»ã€‚
