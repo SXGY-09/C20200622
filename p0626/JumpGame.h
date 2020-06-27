@@ -5,7 +5,9 @@ class JumpGame
 {
 public:
 	int solve(int* A, int n);
-	int min1(vector<int> dp, int begin, int len);
+	bool canJump(int* A, int n);
 	void test();
+private:
+	int min1(vector<int> dp, int begin, int len);
 };
 
