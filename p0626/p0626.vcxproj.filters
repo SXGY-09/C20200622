@@ -36,6 +36,9 @@
     <ClCompile Include="SubArray.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="SpiralMatrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="p0426.h">
@@ -57,6 +60,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="SubArray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SpiralMatrix.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

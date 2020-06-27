@@ -5,3 +5,4 @@
 #include "RotateImage.h"
 #include "QueenPermutation.h"
 #include "SubArray.h"
+#include "SpiralMatrix.h"

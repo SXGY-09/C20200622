@@ -143,6 +143,7 @@
     <ClCompile Include="p0626.cpp" />
     <ClCompile Include="QueenPermutation.cpp" />
     <ClCompile Include="RotateImage.cpp" />
+    <ClCompile Include="SpiralMatrix.cpp" />
     <ClCompile Include="StringMultiply.cpp" />
     <ClCompile Include="SubArray.cpp" />
     <ClCompile Include="TrapWater.cpp" />
@@ -152,6 +153,7 @@
     <ClInclude Include="p0426.h" />
     <ClInclude Include="QueenPermutation.h" />
     <ClInclude Include="RotateImage.h" />
+    <ClInclude Include="SpiralMatrix.h" />
     <ClInclude Include="StringMultiply.h" />
     <ClInclude Include="SubArray.h" />
     <ClInclude Include="TrapWater.h" />

@@ -3,6 +3,6 @@
 #include "p0426.h"
 int main()
 {
-	SubArray obj;
+	SpiralMatrix obj;
 	obj.test();
 }
