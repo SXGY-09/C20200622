@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="IntervalInsert.cpp" />
     <ClCompile Include="IntervalMerge.cpp" />
     <ClCompile Include="JumpGame.cpp" />
     <ClCompile Include="p0626.cpp" />
@@ -151,6 +152,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Interval.h" />
+    <ClInclude Include="IntervalInsert.h" />
     <ClInclude Include="IntervalMerge.h" />
     <ClInclude Include="JumpGame.h" />
     <ClInclude Include="p0426.h" />

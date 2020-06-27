@@ -3,6 +3,6 @@
 #include "p0426.h"
 int main()
 {
-	IntervalMerge obj;
+	IntervalInsert obj;
 	obj.test();
 }

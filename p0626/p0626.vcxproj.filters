@@ -42,6 +42,9 @@
     <ClCompile Include="IntervalMerge.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="IntervalInsert.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="p0426.h">
@@ -72,6 +75,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="Interval.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IntervalInsert.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
