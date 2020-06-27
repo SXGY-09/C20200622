@@ -3,6 +3,6 @@
 #include "p0426.h"
 int main()
 {
-	RotateImage obj;
+	QueenPermutation obj;
 	obj.test();
 }

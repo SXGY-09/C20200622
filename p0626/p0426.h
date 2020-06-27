@@ -3,3 +3,4 @@
 #include "StringMultiply.h"
 #include "JumpGame.h"
 #include "RotateImage.h"
+#include "QueenPermutation.h"

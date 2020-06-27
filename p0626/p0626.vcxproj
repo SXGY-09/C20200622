@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="JumpGame.cpp" />
     <ClCompile Include="p0626.cpp" />
+    <ClCompile Include="QueenPermutation.cpp" />
     <ClCompile Include="RotateImage.cpp" />
     <ClCompile Include="StringMultiply.cpp" />
     <ClCompile Include="TrapWater.cpp" />
@@ -148,6 +149,7 @@
   <ItemGroup>
     <ClInclude Include="JumpGame.h" />
     <ClInclude Include="p0426.h" />
+    <ClInclude Include="QueenPermutation.h" />
     <ClInclude Include="RotateImage.h" />
     <ClInclude Include="StringMultiply.h" />
     <ClInclude Include="TrapWater.h" />
