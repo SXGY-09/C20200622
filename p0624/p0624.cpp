@@ -5,7 +5,7 @@
 #include "p0624.h"
 int main()
 {
-    PermutationAll obj;
+    PermutationNum obj;
     obj.test();
 }
 

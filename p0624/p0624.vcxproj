@@ -148,6 +148,7 @@
     <ClCompile Include="PermutationAll.cpp" />
     <ClCompile Include="PermutationNext.cpp" />
     <ClCompile Include="p0624.cpp" />
+    <ClCompile Include="PermutationNum.cpp" />
     <ClCompile Include="RemoveDuplicate.cpp" />
     <ClCompile Include="RemoveElement.cpp" />
     <ClCompile Include="ReverseNode.cpp" />
@@ -171,6 +172,7 @@
     <ClInclude Include="PermutationAll.h" />
     <ClInclude Include="PermutationNext.h" />
     <ClInclude Include="p0624.h" />
+    <ClInclude Include="PermutationNum.h" />
     <ClInclude Include="RemoveDuplicate.h" />
     <ClInclude Include="RemoveElement.h" />
     <ClInclude Include="ReverseNode.h" />
