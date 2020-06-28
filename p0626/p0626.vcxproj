@@ -149,6 +149,7 @@
     <ClCompile Include="StringMultiply.cpp" />
     <ClCompile Include="SubArray.cpp" />
     <ClCompile Include="TrapWater.cpp" />
+    <ClCompile Include="UniquePath.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Interval.h" />
@@ -162,6 +163,7 @@
     <ClInclude Include="StringMultiply.h" />
     <ClInclude Include="SubArray.h" />
     <ClInclude Include="TrapWater.h" />
+    <ClInclude Include="UniquePath.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

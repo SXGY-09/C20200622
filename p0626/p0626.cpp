@@ -3,6 +3,6 @@
 #include "p0426.h"
 int main()
 {
-	IntervalInsert obj;
+	UniquePath obj;
 	obj.test();
 }
