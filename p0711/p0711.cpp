@@ -5,4 +5,6 @@
 
 int main()
 {
+	PathMin obj;
+	obj.test();
 }
