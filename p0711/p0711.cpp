@@ -5,6 +5,6 @@
 
 int main()
 {
-	PathMin obj;
+	PathStairs obj;
 	obj.test();
 }

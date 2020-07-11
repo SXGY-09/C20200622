@@ -141,10 +141,12 @@
   <ItemGroup>
     <ClCompile Include="p0711.cpp" />
     <ClCompile Include="PathMin.cpp" />
+    <ClCompile Include="PathStairs.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="p0711.h" />
     <ClInclude Include="PathMin.h" />
+    <ClInclude Include="PathStairs.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
