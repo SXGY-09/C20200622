@@ -139,10 +139,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="MinDepth.cpp" />
     <ClCompile Include="p0919.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h" />
+    <ClInclude Include="MinDepth.h" />
     <ClInclude Include="p0919.h" />
     <ClInclude Include="TreeNode.h" />
   </ItemGroup>

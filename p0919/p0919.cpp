@@ -4,5 +4,6 @@
 
 int main()
 {
-    
+    MinDepth obj;
+    obj.test();
 }
