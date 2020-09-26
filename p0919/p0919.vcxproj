@@ -141,11 +141,13 @@
   <ItemGroup>
     <ClCompile Include="MinDepth.cpp" />
     <ClCompile Include="p0919.cpp" />
+    <ClCompile Include="PostfixExp.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ListNode.h" />
     <ClInclude Include="MinDepth.h" />
     <ClInclude Include="p0919.h" />
+    <ClInclude Include="PostfixExp.h" />
     <ClInclude Include="TreeNode.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
