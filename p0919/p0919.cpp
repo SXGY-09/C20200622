@@ -4,6 +4,6 @@
 
 int main()
 {
-    PostfixExp obj;
+    MinDepth obj;
     obj.test();
 }
