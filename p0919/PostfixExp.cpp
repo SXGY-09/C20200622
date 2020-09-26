@@ -37,7 +37,7 @@ int PostfixExp::evalRPN(vector<string>& tokens)
             nums.push(num1 / num2);
         }
         else {
-            nums.push(atoi(item.c_str()));
+            nums.push(stoi(item));
         }
     }
     return nums.top();
