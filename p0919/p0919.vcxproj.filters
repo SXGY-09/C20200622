@@ -21,6 +21,9 @@
     <ClCompile Include="MinDepth.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="PostfixExp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="p0919.h">
@@ -33,6 +36,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="MinDepth.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PostfixExp.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
