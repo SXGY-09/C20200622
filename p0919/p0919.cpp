@@ -4,6 +4,6 @@
 
 int main()
 {
-    PostfixExp obj;
+    PointsInOneLine obj;
     obj.test();
 }
