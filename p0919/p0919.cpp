@@ -4,6 +4,6 @@
 
 int main()
 {
-    PointsInOneLine obj;
+    LinkedListSort obj;
     obj.test();
 }
