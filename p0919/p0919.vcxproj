@@ -139,12 +139,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="LinkedListSort.cpp" />
     <ClCompile Include="MinDepth.cpp" />
     <ClCompile Include="p0919.cpp" />
     <ClCompile Include="PointsInOneLine.cpp" />
     <ClCompile Include="PostfixExp.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="LinkedListSort.h" />
     <ClInclude Include="ListNode.h" />
     <ClInclude Include="MinDepth.h" />
     <ClInclude Include="p0919.h" />

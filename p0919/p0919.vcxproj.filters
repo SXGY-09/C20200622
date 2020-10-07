@@ -27,6 +27,9 @@
     <ClCompile Include="PointsInOneLine.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="LinkedListSort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="p0919.h">
@@ -48,6 +51,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="Point.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedListSort.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
