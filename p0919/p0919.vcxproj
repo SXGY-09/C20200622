@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="InsertionSort.cpp" />
     <ClCompile Include="LinkedListSort.cpp" />
     <ClCompile Include="MinDepth.cpp" />
     <ClCompile Include="p0919.cpp" />
@@ -146,6 +147,7 @@
     <ClCompile Include="PostfixExp.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="InsertionSort.h" />
     <ClInclude Include="LinkedListSort.h" />
     <ClInclude Include="ListNode.h" />
     <ClInclude Include="MinDepth.h" />

@@ -4,6 +4,6 @@
 
 int main()
 {
-    LinkedListSort obj;
+    InsertionSort obj;
     obj.test();
 }
