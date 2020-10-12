@@ -33,6 +33,12 @@
     <ClCompile Include="InsertionSort.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="PostorderTraversal.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PreorderTraversal.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="p0919.h">
@@ -60,6 +66,12 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="InsertionSort.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PostorderTraversal.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PreorderTraversal.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

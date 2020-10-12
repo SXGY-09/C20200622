@@ -145,6 +145,8 @@
     <ClCompile Include="p0919.cpp" />
     <ClCompile Include="PointsInOneLine.cpp" />
     <ClCompile Include="PostfixExp.cpp" />
+    <ClCompile Include="PostorderTraversal.cpp" />
+    <ClCompile Include="PreorderTraversal.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="InsertionSort.h" />
@@ -155,6 +157,8 @@
     <ClInclude Include="Point.h" />
     <ClInclude Include="PointsInOneLine.h" />
     <ClInclude Include="PostfixExp.h" />
+    <ClInclude Include="PostorderTraversal.h" />
+    <ClInclude Include="PreorderTraversal.h" />
     <ClInclude Include="TreeNode.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

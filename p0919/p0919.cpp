@@ -4,6 +4,6 @@
 
 int main()
 {
-    InsertionSort obj;
+    PreorderTraversal obj;
     obj.test();
 }
