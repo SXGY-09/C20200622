@@ -4,6 +4,6 @@
 
 int main()
 {
-    PostorderTraversal obj;
+    PreorderTraversal obj;
     obj.test();
 }
