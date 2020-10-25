@@ -89,7 +89,7 @@
 + `InsertionSort` 使用插入排序对链表进行排序。
 + `PostorderTraversal` 求给定的二叉树的后序遍历。
 + `PreorderTraversal` 求给定的二叉树的前序遍历。
-+ `ReorderList` 重排链表<p>
++ `ReorderList` 重排链表<br>
 L(0),L(1)...L(n)-->L(0),L(n),L(1),L(n-1)...
 + `RetectCycle` 对于一个给定的链表，返回环的入口节点，如果没有环，返回null
 + `JudgeCycle` 判断给定的链表中是否有环

@@ -147,6 +147,7 @@
     <ClCompile Include="PostfixExp.cpp" />
     <ClCompile Include="PostorderTraversal.cpp" />
     <ClCompile Include="PreorderTraversal.cpp" />
+    <ClCompile Include="ReorderList.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="InsertionSort.h" />
@@ -159,6 +160,7 @@
     <ClInclude Include="PostfixExp.h" />
     <ClInclude Include="PostorderTraversal.h" />
     <ClInclude Include="PreorderTraversal.h" />
+    <ClInclude Include="ReorderList.h" />
     <ClInclude Include="TreeNode.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

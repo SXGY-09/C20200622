@@ -4,6 +4,6 @@
 
 int main()
 {
-    PreorderTraversal obj;
+    ReorderList obj;
     obj.test();
 }

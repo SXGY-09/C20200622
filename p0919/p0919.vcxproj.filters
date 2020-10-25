@@ -39,6 +39,9 @@
     <ClCompile Include="PreorderTraversal.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="ReorderList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="p0919.h">
@@ -72,6 +75,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="PreorderTraversal.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ReorderList.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
